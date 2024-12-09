@@ -19,3 +19,5 @@ done
 
 echo "All sessions completed. Great job!"
 
+# chmod +x pomodoro.sh
+#./pomodoro.sh
